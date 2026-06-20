@@ -1,5 +1,5 @@
 # 🚀 Azure DevOps CI/CD with GitOps (Argo CD)
-9
+
 > Part 1 covered Continuous Integration (ci-voting-app repo)  building Docker images and pushing to Azure Container Registry (ACR). This guide covers **Continuous Delivery** using a GitOps approach with **Argo CD** on **Azure Kubernetes Service (AKS)**.
 
 ---
